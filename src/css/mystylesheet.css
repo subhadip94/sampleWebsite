@@ -1,0 +1,8 @@
+.center-form-div {
+    background-color: aliceblue;
+    /* align-items: center; */
+    justify-content: center;
+    display: flex;
+    margin: 10%;
+    padding: 5%;
+}
